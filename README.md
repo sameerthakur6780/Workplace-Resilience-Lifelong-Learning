@@ -1,4 +1,4 @@
-# 🚀 Navigating Growth: A Systematic Study on Workplace Resilience & Lifelong Learning
+# Navigating Growth: A Systematic Study on Workplace Resilience & Lifelong Learning
 
 ![Grade](https://img.shields.io/badge/Grade-98%2F100-success) ![Institution](https://img.shields.io/badge/Institution-IIT_Madras-blue) ![Course](https://img.shields.io/badge/Course-Strategies_for_Professional_Growth-orange)
 
