@@ -18,11 +18,11 @@ Instead of relying solely on textbook theory, our team conducted a multi-layered
 
 This repository is organized sequentially, documenting our complete journey from initial strategy to the final executive presentation.
 
-### 🛠️ 1. Project Setup & Strategy (`01_Project_Setup`)
+### 🛠️ 1. Project Setup & Strategy (`01_Project_Initialization_and_Scope`)
 * **`Project_Mgmt_Plan_and_Research_Strategy.pdf`**: Our initial research roadmap. It outlines our core objectives, interview timelines, and methodological approach aligning with the WEF Future of Jobs 2025 report.
 * **`Team_Workflow_and_Project_Operating_Agreement.pdf`**: The operational backbone of our team. It defines our internal workflow, leadership responsibilities, communication stack, and blameless conflict resolution protocols.
 
-### 👥 2. Team Profiles (`02_Team_Profiles`)
+### 👥 2. Team Profiles (`02_Team_Personality_Profiles`)
 * Contains individual professional growth evaluations (MBTI assessments) for all five members:
   * `Sameer_Thakur_Personality_Profile.pdf`
   * `Anjali_Gupta_Personality_Profile.pdf`
