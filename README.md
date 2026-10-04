@@ -51,12 +51,14 @@ This repository is organized sequentially, documenting our complete journey from
 
 ---
 
-## 🤝 The Team (Team 13)
-* **Sameer Thakur** – Team Lead / Project Manager
-* **Anjali Gupta** – Strategy & Quantitative Analytics
-* **Tulika Chatterjee** – Operations & Qualitative Mapping
-* **Gaurav Tomar** – Technology Insights & Data Synthesis
-* **Santhanu S** – Behavioral Analysis & Influence Modeling
+## 🤝👥The Team (IITM | Team 13)
+
+
+* **Sameer Thakur** (Team Lead / Project Manager) – Guided project compilation, structured workflows, and coordinated milestones leveraging an **ESFJ-A** profile focused on steady organization and team harmony.
+* **Anjali Gupta** (Strategy & Quantitative Analytics) – Handled the construction industry study and managed the 29-respondent survey, driven by an **ENTJ-T** strategic mindset.
+* **Tulika Chatterjee** (Operations & Qualitative Mapping) – Led the MedTech/AI interview and structured thematic data synthesis, utilizing strong **ESTJ-T** executive organizational skills.
+* **Gaurav Tomar** (Technology Insights & Data Synthesis) – Executed the telecom frontline research and transformed field notes into technical insights, guided by an **INFP-A** creative learning approach.
+* **Santhanu S** (Behavioral Analysis & Influence Modeling) – Extracted core behavioral resilience insights from AI automation and helped design the influence model, supported by an **INFJ-T** focus on human dynamics.
 
 <br>
 
