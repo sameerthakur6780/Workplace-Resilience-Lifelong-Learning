@@ -2,7 +2,7 @@
 
 ![Grade](https://img.shields.io/badge/Grade-98%2F100-success) ![Institution](https://img.shields.io/badge/Institution-IIT_Madras-blue) ![Course](https://img.shields.io/badge/Course-Strategies_for_Professional_Growth-orange)
 
-> **Executive Summary:** As the Team Lead for this IIT Madras academic project, I guided a five-member cross-functional team to investigate how professionals survive technological disruption. We achieved a **98/100 grade** by translating qualitative interviews and survey data into a strategic career playbook.
+**Executive Summary:** As the Team Lead for this IIT Madras academic project, I guided a five-member cross-functional team to investigate how professionals survive technological disruption. We achieved a **98/100 grade** by translating qualitative interviews and survey data into a strategic career playbook.
 
 ---
 
